@@ -1,0 +1,28 @@
+*{
+    margin : 0px;
+    padding: 0px;
+}
+.wrapper{
+    margin: 30px 100px;
+    height: auto;
+    
+    
+}
+.header{
+    background-color: blue ;
+    height: 150px;
+}
+.main-nave{
+    background-color: rgb(14, 206, 206);
+    height: 70px;
+}
+.content{
+    padding: 10px 50px;
+    background-color: peru;
+    height: auto;
+    font-size: 20px;
+}
+.footer{
+    background-color: black;
+    height: 50px;
+}
